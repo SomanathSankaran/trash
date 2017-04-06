@@ -1,0 +1,13 @@
+<property>
+<name>fs.default.name</name>
+<value>hdfs://localhost:9000</value>
+</property>
+<p
+roperty>
+<name>Namenode</name>
+<value>hdfs:50070</value>
+</property>
+<property>
+<name>Job Tracker</name>
+<value>hdfs:50030</value>
+</property>
